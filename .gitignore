@@ -1,0 +1,8 @@
+build
+.vscode
+Dockerfile
+.dockerignore
+.vs
+deps/*/build/*
+deps/CMakeFiles/*
+out
